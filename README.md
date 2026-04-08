@@ -61,11 +61,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shagz-tech&theme=tokyonight&hide_border=true"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=shagz-tech&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagz-tech&theme=tokyonight&layout=compact&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shagz-tech&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shagz-tech&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagz-tech&layout=compact&theme=tokyonight"/>
 </p>
-
 ---
 
 <p align="center">🔥 Building projects | Improving daily | Focused on growth 🚀</p>
