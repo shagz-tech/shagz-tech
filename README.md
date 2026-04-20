@@ -54,7 +54,7 @@
 ---
 
 ## 🏆 Achievements
-🏅 Earned **3 LeetCode badges**  
+🏅 Earned **4 LeetCode badges**  
 📚 Strong focus on **Data Structures & Algorithms**
 
 ---
